@@ -14,8 +14,6 @@
 
 ## To run tests
 
-To run tests you can run the following commads:
+To run tests you can run the following commad from app dir:
 
-## How to use
-
-* Go to app dir: `vagrant ssh -c "cd /opt/software/tdd-php && ./vendor/bin/phpunit"`
+`vagrant ssh -c "cd /opt/software/tdd-php && ./vendor/bin/phpunit"`
